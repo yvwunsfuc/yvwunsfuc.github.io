@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "96db7d9c96faebf7f4461e54",
+  "owner": "yvwunsfuc",
+  "repo": "yvwunsfuc.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3432f9b23e54c63c06772d07",
+      "a": "Exflux",
+      "b": "首页",
+      "entity": "Exflux",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "be7e6f142eb1910b6887a9d0666ebb07ab9900e7ce446339ef69856db47be266",
+      "content": {
+        "primary_entity": "Exflux",
+        "keyword1": "Exflux",
+        "keyword2": "首页",
+        "content": {
+          "AI_DESCRIPTION": "，专注为跨境访问、流媒体播放和远程办公场景提供稳定的网络加速服务，通过分布多地的节点与智能路由分配，帮助用户改善视频加载、网页响应和文件传输的体验。",
+          "AI_HERO_SUBTITLE": "Exflux 多场景网络加速",
+          "AI_HERO_INTRO": "Exflux 提供覆盖多地区的海外网络加速服务，适合需要访问境外流媒体、参与国际游戏对战或进行远程协作的人群。用户可根据设备数量和流量需求选择基础版、旗舰版或团队版，并按客户端说明完成订阅配置。",
+          "AI_VISUAL_TITLE": "Exflux 连接更顺畅",
+          "AI_HIGHLIGHT_1": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_2": "节点分布兼顾常用地区",
+          "AI_HIGHLIGHT_3": "客户端配置步骤清晰",
+          "AI_FEATURES_TITLE": "Exflux 特点",
+          "AI_FEATURES_INTRO": "从日常使用到团队协作，Exflux 在套餐配置和客户端支持上提供可落地的选择。",
+          "AI_FEATURE_TITLE_1": "套餐按需挑选",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版增加设备数量与专线优化，团队版面向多设备高流量场景。",
+          "AI_FEATURE_TITLE_2": "设备范围清晰",
+          "AI_FEATURE_TEXT_2": "不同套餐对应不同同时在线设备数，选择前先确认手机、电脑与平板的总数。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持按月或按年付费，长期使用可选年付方案，减少重复续订操作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据日常使用的设备类型选择对应客户端，并参考随订阅提供的配置说明完成设置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比各档套餐的设备数量、流量额度与节点特性，选择匹配自己使用习惯的方案。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择套餐方案，核对设备适配要求，再按客户端文档导入订阅信息。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TEXT_1": "结合设备数量、流量需求和预算，在基础版、旗舰版或团队版中确定合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统和客户端类型，了解订阅导入方式与设备数量限制。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_STEP_TEXT_3": "按照客户端文档添加订阅信息，完成节点选择后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅选择、设备数量与付费周期。",
+          "AI_CLOSING_TITLE": "开始使用 Exflux",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，按客户端文档完成订阅配置即可体验稳定加速。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "两档在流量额度、同时在线设备数和线路类型上不同。旗舰版流量更多、设备数更多，并提供专线优化与优先支持，适合流媒体和游戏场景。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在多少设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持三台设备同时在线，旗舰版支持五台，团队版支持二十台。按日常需要同时连接的终端数量选择即可，超出数量需要升级套餐。",
+          "AI_FAQ_QUESTION_3": "按月付和按年付怎么选？",
+          "AI_FAQ_ANSWER_3": "短期试用或需求不确定时可选月付，长期稳定使用选年付更划算。年付方案在月均成本上低于月付，适合已经确定使用场景的用户。",
+          "AI_FAQ_QUESTION_4": "订阅后如何开始使用？",
+          "AI_FAQ_ANSWER_4": "订阅完成后，在所用设备对应的客户端中依照配置文档导入订阅信息，确认连接正常即可开始使用。不同系统的客户端配置方式略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人共享和较高带宽需求，支持较多设备同时在线，并提供定制路由和专属服务，适合小型团队或家庭多终端环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "609acebd5c03490ba4f18325fc1e9329493b845a6dcfd1bfda6ef7fcfc5bb9b1",
+    "sitemap.xml": "fdc213f953bf1761a6ff7211d382c5cfb2c1e4ac1a53ca75a94fbd2ce618713b",
+    "robots.txt": "64a3f497255c6d5f9e67639c9832ea4f9991a8db294dacaa929c1ed257f45874",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "873834c9cc72915bf5489ea673ecf7e6b3d0eb47d8b6278d084fa972ff2f1709"
+}
